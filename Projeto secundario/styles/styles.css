@@ -20,7 +20,25 @@ nav ul li a:hover {
 }
 
 .banner {
-  background: url(../../assets/banner.jpeg) 27% center no-repeat;
+  background: url(../assets/banner.jpeg) 27% center no-repeat;
   min-height: 350px;
   background-size: cover;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  opacity: 0.9;
+}
+.banner .inner-banner {
+  padding: 3rem;
+  background-color: #EBC7E8;
+  opacity: 0.9;
+  border-radius: 45px;
+}
+.banner .inner-banner h1 {
+  font-size: 3rem;
+  color: #F07DEA;
+}
+.banner .inner-banner h1 h2 {
+  font-size: 1.5rem;
+  color: #A460ED;
 }/*# sourceMappingURL=styles.css.map */
