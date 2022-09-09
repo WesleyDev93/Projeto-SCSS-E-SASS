@@ -87,4 +87,17 @@ nav ul li a:hover {
 }
 #servico .cards .card .img-container img {
   max-width: 100%;
+}
+
+.cupom {
+  background-color: #EBC7E8;
+  padding: 4rem;
+  text-align: center;
+}
+.cupom .texto {
+  color: #F07DEA;
+}
+.cupom .texto h2 {
+  margin: 2rem;
+  font-size: 1.7647058824rem;
 }/*# sourceMappingURL=styles.css.map */
